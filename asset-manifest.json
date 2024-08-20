@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.6b5fa69a.css",
-    "main.js": "/react-gh-pages/static/js/main.c5baddc8.js",
-    "static/js/453.a4a18714.chunk.js": "/react-gh-pages/static/js/453.a4a18714.chunk.js",
-    "index.html": "/react-gh-pages/index.html",
-    "main.6b5fa69a.css.map": "/react-gh-pages/static/css/main.6b5fa69a.css.map",
-    "main.c5baddc8.js.map": "/react-gh-pages/static/js/main.c5baddc8.js.map",
-    "453.a4a18714.chunk.js.map": "/react-gh-pages/static/js/453.a4a18714.chunk.js.map"
+    "main.css": "/React-Practice/static/css/main.6b5fa69a.css",
+    "main.js": "/React-Practice/static/js/main.a5dd152e.js",
+    "static/js/453.a4a18714.chunk.js": "/React-Practice/static/js/453.a4a18714.chunk.js",
+    "index.html": "/React-Practice/index.html",
+    "main.6b5fa69a.css.map": "/React-Practice/static/css/main.6b5fa69a.css.map",
+    "main.a5dd152e.js.map": "/React-Practice/static/js/main.a5dd152e.js.map",
+    "453.a4a18714.chunk.js.map": "/React-Practice/static/js/453.a4a18714.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6b5fa69a.css",
-    "static/js/main.c5baddc8.js"
+    "static/js/main.a5dd152e.js"
   ]
 }
