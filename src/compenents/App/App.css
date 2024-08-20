@@ -1,0 +1,15 @@
+.mainContainer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 5px;
+  flex-direction: column;
+}
+
+.show {
+  display: block;
+}
+
+.hide {
+  display: none;
+}
